@@ -1,5 +1,5 @@
 ---
-title: EDA Testing If This Changes
+title: EDA
 notebook: olives-eda.ipynb
 nav_include: 1
 ---
